@@ -1,1 +1,1 @@
-# Smoke_Detection
+# Smoke_Detection using Decision Tree algorithm
